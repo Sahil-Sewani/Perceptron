@@ -19,7 +19,7 @@ This Python script implements a basic Perceptron algorithm for binary classifica
 
 ## Description
 
-- `perceptron_classification.py`: Main script containing the Perceptron implementation.
+- `Perceptron.py`: Main script containing the Perceptron implementation.
 - `carSUV_normalized.csv`: Dataset containing information related to cars and SUVs (normalized).
 - `README.md`: This file providing an overview of the code and its usage.
 
