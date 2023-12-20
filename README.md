@@ -1,5 +1,7 @@
 # Perceptron Algorithm for Binary Classification
 
+## By: Sahil Sewani
+
 This Python script implements a basic Perceptron algorithm for binary classification using a dataset related to cars and SUVs. It contains functionalities for training the Perceptron, visualizing the dataset, plotting the decision boundary, and computing the error rate surface.
 
 ## Requirements
@@ -28,9 +30,3 @@ This Python script implements a basic Perceptron algorithm for binary classifica
 - Plots the dataset, visualizing cars in green and SUVs in red.
 - Computes and plots the decision boundary line derived from the learned weights.
 - Generates a 3D surface plot depicting the error rates across different weight combinations.
-
-## Credits
-
-- This code was developed as a part of learning and practicing Perceptron algorithms for binary classification.
-
-Feel free to modify and use this code for educational purposes or further enhancements.
