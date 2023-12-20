@@ -14,14 +14,15 @@ This Python script implements a basic Perceptron algorithm for binary classifica
 1. **Dataset**: Ensure the `carSUV_normalized.csv` dataset file is in the same directory.
 2. **Run the Script**: Execute the `perceptron_classification.py` file using Python.
     ```bash
-    python perceptron_classification.py
+    python Perceptron_Raw_Code.py.py
     ```
 
 ## Description
 
-- `Perceptron.py`: Main script containing the Perceptron implementation.
+- `Perceptron_Raw_Code.py`: Main script containing the Perceptron implementation.
 - `carSUV_normalized.csv`: Dataset containing information related to cars and SUVs (normalized).
 - `README.md`: This file providing an overview of the code and its usage.
+- `Perceptron.ipynb`: Contains example code usage and output.
 
 ## Implementation Details
 
